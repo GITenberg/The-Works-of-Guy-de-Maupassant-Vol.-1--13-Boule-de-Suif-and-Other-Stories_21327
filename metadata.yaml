@@ -1,0 +1,31 @@
+_repo: The-Works-of-Guy-de-Maupassant-Vol.-1--13-Boule-de-Suif-and-Other-Stories_21327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Short stories, French -- Translations into English'
+title: "The Works of Guy de Maupassant, Vol. 1\r\nBoule de Suif and Other Stories"
+url: http://www.gutenberg.org/ebooks/21327
